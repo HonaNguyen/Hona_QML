@@ -10,3 +10,6 @@ To get started with this project, clone the repository and install the necessary
 git clone https://github.com/HonaNguyen/Hona_QML.git
 cd https://github.com/HonaNguyen/Hona_QML.git
 pip install -r requirements.txt
+
+Reference
+For a comprehensive introduction to quantum machine learning, please refer to the book Hands-On Quantum Machine Learning With Python, Volume 1: Get Started.
